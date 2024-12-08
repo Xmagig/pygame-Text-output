@@ -1,2 +1,2 @@
 # pygame Text output
- Basic text output via pygame
+ Basic text output using Font via pygame
